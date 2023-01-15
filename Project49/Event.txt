@@ -1,0 +1,43 @@
+Concert Bucharest
+05.03.2023
+9
+120 
+9.9 
+876 
+234.5 
+99 
+765.5 
+234 
+10 
+99.7 
+5
+30
+Andrei
+Programming Class
+1
+900.99
+ 
+31
+Andrei
+Programming Class
+0
+900.99
+ 
+32
+Bogdan
+Meci fotbal
+0
+677.23
+ 
+33
+Bogdan
+Meci fotbal
+0
+677.23
+ 
+34
+Andrei
+Programming Class
+0
+900.99
+ 
